@@ -1,5 +1,5 @@
 These are the basic socket programming codes used in computer networks.
-Different programming languages such as C, C++ and python have been used across different platforms such as pycharms, linux environment and cocalc.com
+Different programming languages such as C, C++ and python have been used across different platforms such as pycharm, linux environment and cocalc.com
 List of programs is as follows:
 1. Simple TCP/IP client-server communication.
 2. UDP echo client-server communication.
