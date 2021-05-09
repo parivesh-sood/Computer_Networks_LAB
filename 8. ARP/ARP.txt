@@ -1,0 +1,10 @@
+ab@ab-VirtualBox:~$ arp -a
+? (192.168.1.9) at 8c:47:be:2e:54:be [ether] on enp0s3
+? (192.168.1.2) at 90:78:b2:c8:0c:ef [ether] on enp0s3
+_gateway (192.168.1.1) at 00:6d:61:ee:a3:4b [ether] on enp0s3
+ab@ab-VirtualBox:~$ gcc arp.c
+ab@ab-VirtualBox:~$ ./a.out 192.168.1.2
+MAC Address For '192.168.1.2' : 90:78:B2:C8:C:EF
+ab@ab-VirtualBox:~$ ./a.out 192.168.1.9
+MAC Address For '192.168.1.9' : 8C:47:BE:2E:54:BE
+ab@ab-VirtualBox:~$ ^C
