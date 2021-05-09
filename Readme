@@ -1,3 +1,11 @@
-These are the basic socket programming codes used in computer networks.<br />
+These are the basic socket programming codes used in computer networks.
 Different programming languages such as C, C++ and python have been used across different platforms such as pycharms, linux environment and cocalc.com
 List of programs is as follows:
+1. Simple TCP/IP client-server communication.
+2. UDP echo client-server communication.
+3. Concurrent TCP/IP day-time server.
+4. Half duplex chat using TCP/IP.
+5. Full duplex chat using TCP/IP.
+6. Implementation of File Transfer Protocol using TCP/IP.
+7. Implementation of Remote Command Execution using UDP.
+8. Implementation of ARP using UDP.
